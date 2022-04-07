@@ -50,8 +50,7 @@ namespace _070422
                         newBook.AuthorName = Console.ReadLine();
                         Console.Write("Price: ");
                         newBook.Price = double.Parse(Console.ReadLine());
-                        library.AddBook(newBook);
-
+                        library.AddBook(newBook);                        
                         var bookJson = JsonConvert.SerializeObject(library);
                         using (StreamWriter sw = new StreamWriter(path + @"Files\Database.json"))
                         {
