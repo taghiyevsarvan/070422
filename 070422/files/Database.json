@@ -1,0 +1,30 @@
+{
+  "Id": 1,
+  "Name": "Axundov kitabxanasi",
+  "_books": [
+    {
+      "Id": 1,
+      "Name": "Varli ata kasib ata",
+      "AuthorName": "Robert Kiyosaki",
+      "Price": 11.0
+    },
+    {
+      "Id": 2,
+      "Name": "Dayanma basla",
+      "AuthorName": "Richard Branson",
+      "Price": 7.99
+    },
+    {
+      "Id": 3,
+      "Name": "80/20 meneceri",
+      "AuthorName": "Richard Koch",
+      "Price": 9.29
+    },
+    {
+      "Id": 4,
+      "Name": "Liderlər en sonda yeyirler",
+      "AuthorName": "RSimon Sinek",
+      "Price": 10.39
+    }
+  ]
+}
